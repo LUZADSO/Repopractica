@@ -1,1 +1,1 @@
-Entendiendo el modo de trabajo de git hub
+Entendiendo el modo de trabajo de git huby ya
